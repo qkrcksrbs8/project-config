@@ -1,5 +1,5 @@
 cache:
   profile: cacheOFF
 logger:
-  level: INFO
+  level: FINE
 
