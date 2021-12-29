@@ -1,5 +1,6 @@
 cache:
   profile: cacheOFF
-logger:
-  level: FINE
+logging:
+  level:
+    root: info
 
