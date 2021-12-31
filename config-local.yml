@@ -2,6 +2,6 @@ cache:
   profile: cacheOFF
 logging:
   level:
-    root: debug
+    root: info
 
 
