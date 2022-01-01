@@ -1,5 +1,5 @@
 cache:
-  profile: cacheOFF
+  profile: cacheON
 logging:
   level:
     root: info
